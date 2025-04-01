@@ -11,7 +11,7 @@ This repository contains the code and documentation for the robot tasks, includi
 
 ❌-Task 5: Returning Home:
 
-✅-Task 6: Display and Sound: Displays distance in millimeters and detected colour on screen. Plays a custom beep sequence when the distance is 100mm.
+✅-Task 6: Display and Sound: Displays sensor values (distance, color) on the EV3 screen. Plays a custom beep sequence a task is completed.
 
 # Acknowledgements
 -Alex

@@ -12,6 +12,7 @@ This repository contains the code and documentation for the robot tasks, includi
 ❌-Task 5: Returning Home:
 
 ✅-Task 6: Display and Sound: Displays distance in millimeters and detected colour on screen. Plays a custom beep sequence when the distance is 100mm.
+
 # Acknowledgements
 -Alex
 -Oscar
